@@ -19,22 +19,20 @@ Esse projeto foi desenvolvido através do Power Bi com auxilio do Excel para a c
 
 Na página inicial podemos analisar indicadores de faturamento bruto, faturamento recebido, custos, resultado após os custos e a margem , além, do gráfico de faturamento recebido e total de custos por mês
 
-![Dashboard inicial](capturadetelainicio.png)
+![Dashboard inicial](Captura%20de%20tela%20inicio.png)
 
 #2-Clientes e receitas
 
 Na segunda página podemos analisar clientes, serviços, status(onde analisamos quais clientes já pagou, cancelou ou está em aberto) e receitas.
 Podemos também analisar em indicadores o percentual e faturamento pendente.
 
-![Dashboard inicial](captura_de_tela_clientes.png)
+![Dashboard inicial](Captura%20de%20tela%20clientes.png)
 
 #3-Despesas e custos 
 
 Análise de custos por categoria, fornecedor , período e percentual.
 
-![Dashboard inicial](captura_de_tela_despesas
-
-.png)
+![Dashboard inicial](Captura%20de%20tela%20despesas.png)
 
 OBJETIVO
 
