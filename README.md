@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido através do Power Bi com auxilio do Excel para a c
 
 Na página inicial podemos analisar indicadores de faturamento bruto, faturamento recebido, custos, resultado após os custos e a margem , além, do gráfico de faturamento recebido e total de custos por mês
 
-![Dashboard inicial](captura_de_tela_inicio.png)
+![Dashboard inicial](capturadetelainicio.png)
 
 #2-Clientes e receitas
 
